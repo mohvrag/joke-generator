@@ -1,0 +1,25 @@
+{
+  "name": "joke-generator",
+  "version": "1.0.0",
+  "description": "A random joke generator using external APIs",
+  "main": "index.html",
+  "scripts": {
+    "serve": "python -m http.server 8000",
+    "serve-node": "http-server",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "jokes",
+    "api",
+    "generator",
+    "random",
+    "humor",
+    "funny"
+  ],
+  "author": "mohvrag",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohvrag/joke-generator.git"
+  }
+}
